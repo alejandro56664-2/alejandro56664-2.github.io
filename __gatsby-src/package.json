@@ -6,7 +6,8 @@
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "publish": "npm run build && mv -i public/* ../"
   },
   "license": "0BSD",
   "dependencies": {

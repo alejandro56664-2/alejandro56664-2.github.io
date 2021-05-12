@@ -11,7 +11,7 @@ export default function Bio() {
       Me llamo <Themed.a href="https://twitter.com/alejandro56664">Alejandro Morales Vásquez</Themed.a>
       {` `}
       <br />
-      Estudié Ingeniería Electrónica, me interesa la Arquitectura de Software, el aprendizaje de máquina, el diseño de Juegos y las novelas gráficas.
+      Estudié Ingeniería Electrónica, me interesa la arquitectura de software, el aprendizaje de máquina, el diseño de juegos y las novelas gráficas.
     </>
   )
 }
