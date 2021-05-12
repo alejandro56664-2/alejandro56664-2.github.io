@@ -8,11 +8,10 @@ import { Themed } from "theme-ui"
 export default function Bio() {
   return (
     <>
-      This is where <Themed.a href="http://example.com/">your name</Themed.a>
+      Me llamo <Themed.a href="https://twitter.com/alejandro56664">Alejandro Morales Vásquez</Themed.a>
       {` `}
-      goes.
       <br />
-      Or whatever, you make the rules.
+      Estudié Ingeniería Electrónica, me interesa la Arquitectura de Software, el aprendizaje de máquina, el diseño de Juegos y las novelas gráficas.
     </>
   )
 }
